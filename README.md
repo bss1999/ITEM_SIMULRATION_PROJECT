@@ -2,6 +2,9 @@
 
 Node.js 입문, 숙련주차의 과제인 아이템시뮬레이터 백엔드 구현 과제입니다
 
+필수기능만 구현되었으며
+도전기능은 구현이되어있지않습니다
+
 
 API 명세서 :
 https://gusty-loganberry-936.notion.site/451e7e3b1e28452a91d923bf3c4e57e4?v=18424b8e4cdc41129ef0ed277836ef45
